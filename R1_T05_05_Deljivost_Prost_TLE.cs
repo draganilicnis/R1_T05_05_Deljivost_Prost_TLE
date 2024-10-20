@@ -2,6 +2,7 @@
 // https://petlja.org/sr-Latn-RS/biblioteka/r/Zbirka3/prost_broj
 // https://arena.petlja.org/sr-Latn-RS/competition/r1-t05-deljivost-prosti-tle-001-2024#tab_132331
 // https://www.petlja.org/sr-Latn-RS/biblioteka/r/Zbirka3/prost_broj
+// https://petlja.org/sr-Latn-RS/biblioteka/r/problemi/Zbirka-stara/prost_broj
 // https://petlja.org/sr-Latn-RS/kurs/14606/23/2755
 // https://onlinegdb.com/JeTNwk0_R
 // https://onlinegdb.com/Enxnz_kWT
